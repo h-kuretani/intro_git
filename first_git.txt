@@ -2,4 +2,5 @@
 基本的なワークフローを学びます。
 Git add
 Git commit
-Git rm
+Git rmi
+Git status
